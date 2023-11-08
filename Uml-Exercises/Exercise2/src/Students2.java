@@ -1,5 +1,5 @@
 public class Students2 {
-    private String name;
+    private String nim;
     private String nama;
     public Students2(String nim){
         this.nama=nama;
